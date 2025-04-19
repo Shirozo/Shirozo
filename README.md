@@ -2,12 +2,12 @@
 
 
 # 👨‍🦰 About Me:
-I am a third-year computer science student at Eastern Samar State University - Main Campus, a passionate full-stack developer with 1 year of experience in building web applications.
+I am a third-year computer science student at Eastern Samar State University - Main Campus, a passionate full-stack developer with 3 year of experience in building web applications.
 
 
 ## 🚀 What I'm Up To
 
--  Building Web Application with [Django](https://www.djangoproject.com/) and [Laravel](https://laravel.com/).
+-  Building Web Application with [Django](https://www.djangoproject.com/), [Laravel](https://laravel.com/), and [React](https://react.dev/).
 
 ## 💼 Work Experience
 - Software Developer Intern at [OptoGrow](https://www.optogrow.com/) Operations Management Services.
@@ -18,7 +18,8 @@ Hello! I'm Neil Bryan Bagas, a passionate full-stack developer with 1 year of ex
 Outside of coding, I train taekwondo sometimes and an avid online gamer. I'm also a sci-fi enthusiast and also watch all those sci-fi movie especially about space. My passion project is developing an open-source project towards automation of previous manual task.
 
 ## 🎓 Project I created
-- Banco De Grado (Student Report Grade) - [Source Code](https://github.com/Shirozo/Banco-de-Grado.git)
+- Banco De Grado (Web) - Closed Source
+- Banco De Grado (Android) - Closed Source
 - Diocese Financial Management - Closed Source
 - Borongan City Transport Terminal - Closed Source
 - Student Voting Management System - [Source Code](https://github.com/Shirozo/SVMS-Laravel)
@@ -34,9 +35,11 @@ Outside of coding, I train taekwondo sometimes and an avid online gamer. I'm als
 # 💻 Tech Stack:
 OS:
 ![Linux](https://img.shields.io/badge/linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%243776AB.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%233776AB.svg?style=for-the-badge&logo=php&logoColor=violete) 
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -46,7 +49,12 @@ Languages:
 Libraries/Frameworks: 
 ![Django](https://img.shields.io/badge/Django-254B33.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-%23F05033.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white) 
 
 Developer Tools: 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
