@@ -13,7 +13,7 @@ I am a third-year computer science student at Eastern Samar State University - M
 - Software Developer Intern at [OptoGrow](https://www.optogrow.com/) Operations Management Services.
 
 ## 🎓 About Me
-Hello! I'm Neil Bryan Bagas, a passionate full-stack developer with 1 year of experience in building web applications. I thrive on solving complex problems and always eager to learn new technologies. My expertise lies in creating scalable, efficient, and user-friendly applications using modern web technologies.
+Hello! I'm Neil Bryan Bagas, a passionate full-stack developer with 3 years of experience in building web applications. I thrive on solving complex problems and always eager to learn new technologies. My expertise lies in creating scalable, efficient, and user-friendly applications using modern web technologies.
 
 Outside of coding, I train taekwondo sometimes and an avid online gamer. I'm also a sci-fi enthusiast and also watch all those sci-fi movie especially about space. My passion project is developing an open-source project towards automation of previous manual task.
 
